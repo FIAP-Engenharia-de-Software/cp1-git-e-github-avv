@@ -11,4 +11,10 @@ A Social connect é uma empresa que oferece soluções digitais para conectar pe
 - Github
 - Github Pages
 
+## Integrantes
+- Artur Brandi (RM570258)
+- Victor Godoy  (RM571454)
+- Victor Heineken (RM570782)
 
+## Link do Pages
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-avv/
